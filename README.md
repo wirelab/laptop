@@ -3,6 +3,10 @@ Laptop
 
 Laptop is a set of scripts to get your Max OS X laptop set up as a Rails development machine.
 
+*This script is a modified version of [Thoughtbot's laptop script](https://github.com/thoughtbot/laptop)*
+
+*Currently the only difference is the switch from **RVM** to **Rbenv** + **Ruby-build***
+
 Install
 -------
 
@@ -10,7 +14,7 @@ First, install [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer)
 
 Then, run this one-liner:
 
-    bash < <(curl -s https://raw.github.com/thoughtbot/laptop/master/mac)
+    bash < <(curl -s https://raw.github.com/wirelab/laptop/master/mac)
 
 What it sets up
 ---------------

@@ -14,7 +14,7 @@ First, install [GCC for OS X](https://github.com/kennethreitz/osx-gcc-installer)
 
 Then, run this one-liner:
 
-    bash < <(curl -s https://raw.github.com/wirelab/laptop/master/mac)
+    bash < <(curl -s https://github.com/Wirelab/laptop/raw/rbenv/mac)
 
 What it sets up
 ---------------

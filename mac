@@ -46,5 +46,5 @@ eval \"\$(rbenv init -)\"" >> ~/.zshenv
 echo "Installing Ruby-build (for building different versions of Ruby) ..."
   brew install ruby-build
 
-bash < <(curl -s https://raw.github.com/wirelab/laptop/master/ruby)
-bash < <(curl -s https://raw.github.com/wirelab/laptop/master/heroku)
+bash < <(curl -s https://raw.github.com/wirelab/laptop/rbenv/ruby)
+bash < <(curl -s https://raw.github.com/wirelab/laptop/rbenv/heroku)
